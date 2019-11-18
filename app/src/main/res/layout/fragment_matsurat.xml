@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorAccent"
+    tools:context=".Matsurat">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="Al-Matsurat ( المأثورت )"
+        android:fontFamily="sans-serif-black"
+        android:ellipsize="end"
+        android:maxLines="4"
+        android:textSize="22dp"
+        android:gravity="center"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:textAlignment="center"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:ellipsize="end"
+        android:maxLines="10"
+        android:text="Do'a Al Ma'tsurat adalah kumpulan doa-doa yang dibaca setiap pagi dan sore sesuai dengan tuntunan
+Nabi Muhammad SAW.
+Do'a do'a ini mempunyai banyak keutamaan.
+Mudah-mudahan kita semua mendapatkan semua keutamaan do'a - do'a tersebut dan hanya ridho Allah
+lah tujuan kita semua." />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="160dp"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:text="Al-Fatihah"
+        android:textSize="21dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:text="أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:layout_marginTop="235dp"
+        android:textStyle="bold"
+        android:text=" بِسْمِ اللهِ الرَّحْمَٰنِ الرَّحِيم الْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِينَ  الرَّحْمٰنِ الرَّحِيمِ  مٰلِكِ يَوْمِ الدِّينِ  إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ  اهْدِنَا الصِّرٰطَ الْمُسْتَقِيمَ  صِرٰطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّآلِّينَ"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:layout_marginTop="290dp"
+        android:text="bismillāhir-raḥmānir-raḥīm. al-ḥamdu lillāhi rabbil-'ālamīn. ar-raḥmānir-raḥīm. māliki yaumid-dīn. iyyāka na'budu wa iyyāka nasta'īn. ihdinaṣ-ṣirāṭal-mustaqīm. ṣirāṭallażīna an'amta 'alaihim gairil-magḍụbi 'alaihim wa laḍ-ḍāllīn."
+        android:fontFamily="sans-serif-black"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:layout_marginTop="365dp"
+        android:text="Artinya :"
+        android:textStyle="italic"
+    />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:layout_marginTop="385dp"
+        android:textStyle="italic"
+        android:text="Dengan menyebut nama Allah Yang Maha Pemurah lagi Maha Penyayang.Segala puji bagi Allah, Tuhan semesta alam. Maha Pemurah lagi Maha Penyayang. Yang menguasai hari Pembalasan. Hanya Engkaulah yang Kami sembah[8], dan hanya kepada Engkaulah Kami meminta pertolongan. Tunjukkanlah kami[10] jalan yang lurus. (yaitu) jalan orang-orang yang telah Engkau berikan nikmat kepada mereka; bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) mereka yang sesat."
+        android:fontFamily="sans-serif"
+        />
+</RelativeLayout>

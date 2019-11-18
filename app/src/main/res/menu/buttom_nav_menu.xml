@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/inspirasi"
+        android:icon="@drawable/ic_inspirasi"
+        android:title="Inspirasi" />
+    <item
+        android:id="@+id/sholat"
+        android:icon="@drawable/ic_sholat"
+        android:title="Sholat" />
+    <item
+        android:id="@+id/doa"
+        android:icon="@drawable/ic_doa"
+        android:title="Doa" />
+    <item
+        android:id="@+id/hadits"
+        android:icon="@drawable/ic_hadist"
+        android:title="Hadits" />
+    <item
+        android:id="@+id/matsurat"
+        android:icon="@drawable/ic_al_matsurat"
+        android:title="Matsurat" />
+</menu>

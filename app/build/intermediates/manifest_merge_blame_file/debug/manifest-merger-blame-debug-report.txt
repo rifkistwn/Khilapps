@@ -1,0 +1,62 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.android.khilapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->E:\Android Studio\Khilapp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->E:\Android Studio\Khilapp\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->E:\Android Studio\Khilapp\app\src\main\AndroidManifest.xml:5:5-28:19
+12        android:allowBackup="true"
+12-->E:\Android Studio\Khilapp\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0] C:\Users\Rifkisetiawan\.gradle\caches\transforms-2\files-2.1\f01b27bb220ecb79298884ef36a7a2fb\core-1.1.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/logo"
+15-->E:\Android Studio\Khilapp\app\src\main\AndroidManifest.xml:7:9-36
+16        android:label="@string/app_name"
+16-->E:\Android Studio\Khilapp\app\src\main\AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/logo"
+17-->E:\Android Studio\Khilapp\app\src\main\AndroidManifest.xml:9:9-41
+18        android:supportsRtl="true"
+18-->E:\Android Studio\Khilapp\app\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->E:\Android Studio\Khilapp\app\src\main\AndroidManifest.xml:11:9-40
+21        <activity android:name="com.android.khilapp.IsiHadits" />
+21-->E:\Android Studio\Khilapp\app\src\main\AndroidManifest.xml:12:9-56
+21-->E:\Android Studio\Khilapp\app\src\main\AndroidManifest.xml:12:19-44
+22        <activity
+22-->E:\Android Studio\Khilapp\app\src\main\AndroidManifest.xml:13:9-15:57
+23            android:name="com.android.khilapp.MainActivity"
+23-->E:\Android Studio\Khilapp\app\src\main\AndroidManifest.xml:14:13-41
+24            android:label="@string/app_name" />
+24-->E:\Android Studio\Khilapp\app\src\main\AndroidManifest.xml:15:13-45
+25        <activity
+25-->E:\Android Studio\Khilapp\app\src\main\AndroidManifest.xml:16:9-23:20
+26            android:name="com.android.khilapp.SplashActivity"
+26-->E:\Android Studio\Khilapp\app\src\main\AndroidManifest.xml:17:13-43
+27            android:theme="@style/SplashTheme" >
+27-->E:\Android Studio\Khilapp\app\src\main\AndroidManifest.xml:18:13-47
+28            <intent-filter>
+28-->E:\Android Studio\Khilapp\app\src\main\AndroidManifest.xml:19:13-22:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->E:\Android Studio\Khilapp\app\src\main\AndroidManifest.xml:20:17-69
+29-->E:\Android Studio\Khilapp\app\src\main\AndroidManifest.xml:20:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->E:\Android Studio\Khilapp\app\src\main\AndroidManifest.xml:21:17-77
+31-->E:\Android Studio\Khilapp\app\src\main\AndroidManifest.xml:21:27-74
+32            </intent-filter>
+33        </activity>
+34        <activity android:name="com.android.khilapp.Tentang" />
+34-->E:\Android Studio\Khilapp\app\src\main\AndroidManifest.xml:25:9-54
+34-->E:\Android Studio\Khilapp\app\src\main\AndroidManifest.xml:25:19-42
+35    </application>
+36
+37</manifest>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".IsiHadits">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hari Kiamat
+
+Dari Abu Hurairah radhiyallahu’anhu, Rasulullah shallallahu ‘alaihi wa sallam bersabda, “Allah tabaraka wa ta’ala menggenggam bumi pada hari kiamat, Allah melipat langit dengan tangan kanan-Nya, kemudian Allah berkata; ‘Aku lah Sang Raja, manakah para raja yang dahulu berkuasa di bumi?’.” (HR. Bukhari dan Muslim)
+
+Dari Anas bin Malik radhiyallahu’anhu, Rasulullah shallallahu ‘alaihi wa sallam bersabda, “Allah tabaraka wa ta’ala berkata kepada penghuni neraka yang paling ringan azabnya, ‘Apakah seandainya kamu memiliki dunia seisinya, maukah kamu menebus siksa ini dengan itu semua?’ Dia menjawab, ‘Iya, mau.’ Allah pun berkata, ‘Sungguh dahulu Aku telah menghendaki darimu sesuatu yang lebih mudah daripada itu yaitu ketika kamu berada di tulang sulbi Adam; ‘Hendaklah kamu tidak mempersekutukan Aku’, dan Aku tidak akan memasukkan kamu ke neraka, akan tetapi kamu enggan melainkan berbuat syirik.’.” (HR. Bukhari dan Muslim)
+
+Dari Anas bin Malik radhiyalllahu’anhu, Rasulullah shallallahu ‘alaihi wa sallam bersabda, “Surga dikelilingi dengan hal-hal yang tidak disenangi -nafsu- dan neraka dikelilingi oleh hal-hal yang disenangi -oleh nafsu-.” (HR. Muslim)
+
+Dari Abu Hurairah radhiyallahu’anhu, Rasulullah shallallahu ‘alaihi wa sallam bersabda, “Barangsiapa yang masuk ke dalam surga maka dia akan merasa senang dan nikmat, dan dia tidak akan kesusahan. Tidak akan usang pakaiannya, dan tidak akan habis masa mudanya.” (HR. Muslim)
+
+"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:layout_gravity="center"/>
+
+</LinearLayout>
